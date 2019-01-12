@@ -1,0 +1,5 @@
+name: SimplenessAPI
+main: rip.simpleness.simplenessapi.SimplenessAPI
+version: 1.0
+description: SimplenessAPI plugin
+depend: [Factions, SilkSpawners, Vault]
